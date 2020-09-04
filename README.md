@@ -1,0 +1,2 @@
+# gatsby-starter
+Starter includes:
