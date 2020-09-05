@@ -1,5 +1,7 @@
 # gatsby-starter
+
 Starter includes:
+
 - typescript
 - styled-components
 - react-icons
